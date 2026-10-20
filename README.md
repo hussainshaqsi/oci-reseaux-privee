@@ -150,7 +150,8 @@ Client WireGuard (ex. sur son propre PC) : importer une configuration pointant v
 
 
 
-!\[Scan nmap montrant tous les ports filtrés](screenshots/nmap-filtered.png)
+!\[Scan nmap montrant tous les ports filtrés]<img width="932" height="192" alt="image" src="https://github.com/user-attachments/assets/84705eb2-cb50-4ba4-9fe5-7a96fd3e700c" />
+
 
 
 
@@ -158,7 +159,8 @@ Client WireGuard (ex. sur son propre PC) : importer une configuration pointant v
 
 
 
-!\[Connexion SSH réussie via le tunnel WireGuard](screenshots/vpn-ssh-success.png)
+!\[Connexion SSH réussie via le tunnel WireGuard]<img width="958" height="910" alt="image" src="https://github.com/user-attachments/assets/68a4d771-8500-49be-a3ff-7b2e59ac2ee8" />
+
 
 
 
